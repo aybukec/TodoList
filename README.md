@@ -1,2 +1,1 @@
-# YukatechProject
 TodoList uygulaması
